@@ -31,7 +31,7 @@
     "firebase": "^5.7.2",
     "ionic-angular": "3.9.2",
     "ionicons": "3.0.0",
-    "moment": "^2.23.0",
+    "moment": "^2.29.4",
     "rxjs": "^6.0.0",
     "rxjs-compat": "^6.3.3",
     "sw-toolbox": "3.6.0",
